@@ -1,0 +1,16 @@
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\obj\Debug\net5.0\ProjElevador.csproj.AssemblyReference.cache
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\obj\Debug\net5.0\ProjElevador.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\obj\Debug\net5.0\ProjElevador.AssemblyInfoInputs.cache
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\obj\Debug\net5.0\ProjElevador.AssemblyInfo.cs
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\obj\Debug\net5.0\ProjElevador.csproj.CoreCompileInputs.cache
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\bin\Debug\net5.0\ProjElevador.exe
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\bin\Debug\net5.0\ProjElevador.deps.json
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\bin\Debug\net5.0\ProjElevador.runtimeconfig.json
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\bin\Debug\net5.0\ProjElevador.runtimeconfig.dev.json
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\bin\Debug\net5.0\ProjElevador.dll
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\bin\Debug\net5.0\ProjElevador.pdb
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\obj\Debug\net5.0\ProjElevador.dll
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\obj\Debug\net5.0\refint\ProjElevador.dll
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\obj\Debug\net5.0\ProjElevador.pdb
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\obj\Debug\net5.0\ProjElevador.genruntimeconfig.cache
+E:\CURSOS\SAMSUNG-OCEAN\SamsungOcean_Microsoft\ProjElevador\ProjElevador\obj\Debug\net5.0\ref\ProjElevador.dll
